@@ -1,0 +1,888 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Slideshow Gallery plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-04 09:55+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Tribulant Software <support@tribulant.com>\n"
+"Language-Team: BRANCO RADENOVICH <br.radenovich@gmail.com>\n"
+"Language: en_ZA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../slideshow-gallery-ajax.php:36
+msgid "Slides have been ordered"
+msgstr "Snímky bolo nariadené"
+
+#: ../slideshow-gallery-plugin.php:168
+#, fuzzy
+msgid "Slideshow Manager"
+msgstr "Slideshow hraníc"
+
+#: ../slideshow-gallery-plugin.php:280
+#, php-format
+msgid "Uploads folder named \"%s\" cannot be created inside \"%s\""
+msgstr ""
+
+#: ../slideshow-gallery-plugin.php:289
+#, php-format
+msgid ""
+"Slideshow cache folder \"%s\" for resizing images cannot be created inside "
+"\"%s\""
+msgstr ""
+
+#: ../slideshow-gallery.php:55
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: ../slideshow-gallery.php:56 ../helpers/html.php:9
+#: ../views/admin/slides/index.php:6
+msgid "Manage Slides"
+msgstr "Spravovať snímky"
+
+#: ../slideshow-gallery.php:57 ../helpers/html.php:12
+#: ../views/admin/galleries/index.php:6
+msgid "Manage Galleries"
+msgstr "Spravovať galérie"
+
+#: ../slideshow-gallery.php:58 ../helpers/html.php:15
+msgid "Configuration"
+msgstr "Konfigurácia"
+
+#: ../slideshow-gallery.php:68
+msgid "Save Settings"
+msgstr "Uložiť nastavenia"
+
+#: ../slideshow-gallery.php:69
+msgid "About This Plugin"
+msgstr ""
+
+#: ../slideshow-gallery.php:70
+msgid "WordPress Related"
+msgstr ""
+
+#: ../slideshow-gallery.php:71
+msgid "General Settings"
+msgstr "Všeobecné nastavenia"
+
+#: ../slideshow-gallery.php:72
+msgid "Links &amp; Images Overlay"
+msgstr "Odkazy &amp;amp; obrázky prekrytie"
+
+#: ../slideshow-gallery.php:73
+msgid "Appearance &amp; Styles"
+msgstr "Vzhľad &amp;amp; štýly"
+
+#: ../slideshow-gallery.php:225
+msgid "Slide has been removed"
+msgstr "Snímok bol odstránený"
+
+#: ../slideshow-gallery.php:228
+msgid "Slide cannot be removed"
+msgstr "Snímka sa nedá odstrániť"
+
+#: ../slideshow-gallery.php:232 ../models/galleryslides.php:64
+msgid "No slide was specified"
+msgstr "Nebol zadaný žiadny snímku"
+
+#: ../slideshow-gallery.php:240
+msgid "Slide has been saved"
+msgstr "Snímka bola uložená"
+
+#: ../slideshow-gallery.php:260
+msgid "Selected slides have been removed"
+msgstr "Vybraté snímky boli odstránené"
+
+#: ../slideshow-gallery.php:265 ../slideshow-gallery.php:365
+msgid "No slides were selected"
+msgstr "Neboli vybraté žiadne snímky"
+
+#: ../slideshow-gallery.php:269 ../slideshow-gallery.php:369
+msgid "No action was specified"
+msgstr "Bola zadaná žiadna akcia"
+
+#: ../slideshow-gallery.php:304
+msgid "Gallery has been saved"
+msgstr "Galéria bola uložená"
+
+#: ../slideshow-gallery.php:339
+msgid "Gallery has been removed"
+msgstr "Galéria bol odstránený"
+
+#: ../slideshow-gallery.php:342
+msgid "Gallery cannot be removed"
+msgstr "Galéria nemožno odstrániť"
+
+#: ../slideshow-gallery.php:346 ../models/galleryslides.php:63
+msgid "No gallery was specified"
+msgstr "Nebol zadaný žiadny Galéria"
+
+#: ../slideshow-gallery.php:360
+msgid "Selected galleries have been removed"
+msgstr "Vybrané galérie boli odstránené"
+
+#: ../slideshow-gallery.php:387
+msgid "All configuration settings have been reset to their defaults"
+msgstr "Všetky nastavenia konfigurácie sa nastavili predvolené"
+
+#: ../slideshow-gallery.php:391
+msgid "Configuration settings could not be reset"
+msgstr "Konfiguračné nastavenia sa nepodarilo vynulovať"
+
+#: ../slideshow-gallery.php:434
+msgid "Configuration has been saved"
+msgstr "Konfigurácia bola uložená"
+
+#: ../js/tinymce/dialog.php:29
+msgid "Insert a Slideshow Gallery"
+msgstr "Vložiť Slideshow galérie"
+
+#: ../js/tinymce/dialog.php:45
+msgid "Please fill in a post ID."
+msgstr "Vyplňte prosím post ID."
+
+#: ../js/tinymce/dialog.php:59
+msgid "Please select a gallery."
+msgstr "Vyberte galériu."
+
+#: ../js/tinymce/dialog.php:91
+msgid "Images From a Post"
+msgstr "Obrázky z Post"
+
+#: ../js/tinymce/dialog.php:92
+msgid "Slides From a Gallery"
+msgstr "Snímky z galérie"
+
+#: ../js/tinymce/dialog.php:93
+msgid "All Available Slides"
+msgstr "Všetky dostupné snímky"
+
+#: ../js/tinymce/dialog.php:97
+msgid "Post ID:"
+msgstr "Post ID:"
+
+#: ../js/tinymce/dialog.php:99
+msgid "ID of the post to take images from."
+msgstr "Identifikácia post snímok z."
+
+#: ../js/tinymce/dialog.php:105
+msgid "Gallery:"
+msgstr "Galéria:"
+
+#: ../js/tinymce/dialog.php:107
+msgid "- Select Gallery -"
+msgstr "-Galéria select-"
+
+#: ../js/tinymce/dialog.php:119
+msgid "Exclude"
+msgstr "Vylúčiť"
+
+#: ../js/tinymce/dialog.php:121
+msgid "Comma separated IDs of attachments/slides to exclude"
+msgstr "ID prílohy/snímok vylúčiť oddelené čiarkou"
+
+#: ../models/gallery.php:75 ../models/slide.php:80
+msgid "Please fill in a title"
+msgstr "Vyplňte názov"
+
+#: ../models/gallery.php:77 ../models/galleryslides.php:72
+#: ../models/slide.php:140
+msgid "No data was posted"
+msgstr "Bol vyslaný žiadne údaje"
+
+#: ../models/slide.php:81
+msgid "Please select an image type"
+msgstr "Vyberte typ obrázka"
+
+#: ../models/slide.php:96
+msgid "The image did not upload, please try again"
+msgstr "Obrázok urobil nemožno nahrať, prosím skúste znova"
+
+#: ../models/slide.php:97
+msgid ""
+"Image could not be moved from TMP to \"wp-content/uploads/\", please check "
+"permissions"
+msgstr ""
+"Obrázok nemôže byť presunuté z TMP do \"wp-content/uploads/\", prosím "
+"skontrolujte povolenia"
+
+#: ../models/slide.php:106
+msgid "The image file is too large"
+msgstr "Obrázok je príliš veľký"
+
+#: ../models/slide.php:109
+msgid "The image was partially uploaded, please try again"
+msgstr "Obraz bol čiastočne nahraný, prosím skúste to znova"
+
+#: ../models/slide.php:112
+msgid "No image was chosen for uploading, please choose an image"
+msgstr "Žiadny obrázok bol vybraný pre nahrávanie, vyberte obrázok"
+
+#: ../models/slide.php:115
+msgid ""
+"No TMP directory has been specified for PHP to use, please ask your hosting "
+"provider"
+msgstr ""
+"Nebola zadaná žiadna TMP adresára pre PHP použiť, požiadajte svojho "
+"poskytovateľa hostingu"
+
+#: ../models/slide.php:118
+msgid "Image cannot be written to disc, please ask your hosting provider"
+msgstr ""
+"Obrázok nie je možné zapísať na disk, požiadajte svojho poskytovateľa "
+"hostingu"
+
+#: ../models/slide.php:124
+msgid "Please specify an image"
+msgstr "Prosím zadajte obrázok"
+
+#: ../vendors/class.paginate.php:176
+msgid "Displaying"
+msgstr "Zobrazenie"
+
+#: ../vendors/class.paginate.php:176
+msgid "of"
+msgstr "z"
+
+#: ../vendors/class.paginate.php:179
+msgid "Previous Page"
+msgstr "Predchádzajúca strana"
+
+#: ../vendors/class.paginate.php:187
+msgid "Page"
+msgstr "Stránka"
+
+#: ../vendors/class.paginate.php:198
+msgid "Next Page"
+msgstr "Ďalšia strana"
+
+#: ../views/admin/settings.php:16
+msgid "Configuration Settings"
+msgstr "Konfiguraèné nastavenia"
+
+#: ../views/admin/galleries/hardcode.php:6
+#, fuzzy, php-format
+msgid "Hardcode Gallery: %s"
+msgstr "Zobraziť galériu: %s"
+
+#: ../views/admin/galleries/hardcode.php:7 ../views/admin/galleries/view.php:8
+msgid "&larr; All Galleries"
+msgstr "&amp;larr; Všetky galérie"
+
+#: ../views/admin/galleries/hardcode.php:7 ../views/admin/galleries/view.php:8
+msgid "All Galleries"
+msgstr "Všetky galérie"
+
+#: ../views/admin/galleries/hardcode.php:8
+msgid ""
+"This PHP code can be used inside your WordPress theme to display slides "
+"inside this gallery."
+msgstr ""
+
+#: ../views/admin/galleries/index.php:6 ../views/admin/slides/index.php:6
+msgid "Add New"
+msgstr "Pridať nové"
+
+#: ../views/admin/galleries/index.php:11
+msgid "galleries"
+msgstr "galérie"
+
+#: ../views/admin/galleries/index.php:15
+msgid "Are you sure you wish to execute this action on the selected galleries?"
+msgstr "Naozaj chcete vykonať túto akciu na vybrané galérie?"
+
+#: ../views/admin/galleries/index.php:19 ../views/admin/slides/loop.php:12
+msgid "- Bulk Actions -"
+msgstr "-Hromadné akcie-"
+
+#: ../views/admin/galleries/index.php:20 ../views/admin/galleries/index.php:60
+#: ../views/admin/galleries/view.php:14 ../views/admin/slides/loop.php:13
+#: ../views/admin/slides/loop.php:58
+msgid "Delete"
+msgstr "Odstrániť"
+
+#: ../views/admin/galleries/index.php:22 ../views/admin/slides/loop.php:15
+msgid "Apply"
+msgstr "Uplatňovať"
+
+#: ../views/admin/galleries/index.php:31 ../views/admin/galleries/index.php:41
+#: ../views/admin/slides/loop.php:24 ../views/admin/slides/loop.php:36
+msgid "ID"
+msgstr "ID"
+
+#: ../views/admin/galleries/index.php:32 ../views/admin/galleries/index.php:42
+#: ../views/admin/galleries/save.php:14 ../views/admin/slides/loop.php:26
+#: ../views/admin/slides/loop.php:38 ../views/admin/slides/save.php:15
+msgid "Title"
+msgstr "Názov"
+
+#: ../views/admin/galleries/index.php:33 ../views/admin/galleries/index.php:43
+msgid "Slides"
+msgstr "Snímky"
+
+#: ../views/admin/galleries/index.php:34 ../views/admin/galleries/index.php:44
+msgid "Shortcode"
+msgstr ""
+
+#: ../views/admin/galleries/index.php:35 ../views/admin/galleries/index.php:45
+#: ../views/admin/slides/loop.php:29 ../views/admin/slides/loop.php:41
+msgid "Date"
+msgstr "Dátum"
+
+#: ../views/admin/galleries/index.php:56
+msgid "View"
+msgstr "Zobrazenie"
+
+#: ../views/admin/galleries/index.php:57 ../views/admin/galleries/view.php:12
+#: ../views/admin/slides/loop.php:57
+msgid "Edit"
+msgstr "Upraviť"
+
+#: ../views/admin/galleries/index.php:58 ../views/admin/galleries/view.php:13
+msgid "Hardcode"
+msgstr ""
+
+#: ../views/admin/galleries/index.php:59 ../views/admin/slides/loop.php:6
+#: ../views/admin/slides/loop.php:8 ../views/admin/slides/order.php:6
+msgid "Order Slides"
+msgstr "Poradie snímok"
+
+#: ../views/admin/galleries/index.php:60 ../views/admin/slides/loop.php:58
+msgid "Are you sure you want to permanently remove this slide?"
+msgstr "Naozaj chcete natrvalo odstrániť túto snímku?"
+
+#: ../views/admin/galleries/index.php:81 ../views/admin/slides/save.php:39
+msgid "No galleries are available."
+msgstr "Žiadne galérie sú k dispozícii."
+
+#: ../views/admin/galleries/save.php:6
+msgid "Save a Gallery"
+msgstr "Uložiť Galéria"
+
+#: ../views/admin/galleries/save.php:17
+msgid "Title of this gallery for identification purposes."
+msgstr "Názov tejto galérie pre účely identifikácie."
+
+#: ../views/admin/galleries/save.php:25
+msgid "Save Gallery"
+msgstr "Uložiť Galéria"
+
+#: ../views/admin/galleries/view.php:6
+#, php-format
+msgid "View Gallery: %s"
+msgstr "Zobraziť galériu: %s"
+
+#: ../views/admin/galleries/view.php:12
+msgid "Edit Gallery"
+msgstr "Upraviť Galéria"
+
+#: ../views/admin/galleries/view.php:14
+msgid "Are you sure you want to delete this gallery?"
+msgstr "Naozaj chcete odstrániť túto galériu?"
+
+#: ../views/admin/galleries/view.php:14
+msgid "Delete Gallery"
+msgstr "Delete Galéria"
+
+#: ../views/admin/metaboxes/settings-general.php:4
+msgid "Auto Slide"
+msgstr "Auto snímku"
+
+#: ../views/admin/metaboxes/settings-general.php:6
+#: ../views/admin/metaboxes/settings-general.php:40
+#: ../views/admin/metaboxes/settings-general.php:74
+#: ../views/admin/metaboxes/settings-general.php:101
+#: ../views/admin/metaboxes/settings-linksimages.php:6
+#: ../views/admin/metaboxes/settings-styles.php:8
+#: ../views/admin/slides/loop.php:75 ../views/admin/slides/save.php:107
+msgid "Yes"
+msgstr "áno"
+
+#: ../views/admin/metaboxes/settings-general.php:7
+#: ../views/admin/metaboxes/settings-general.php:41
+#: ../views/admin/metaboxes/settings-general.php:75
+#: ../views/admin/metaboxes/settings-general.php:102
+#: ../views/admin/metaboxes/settings-linksimages.php:7
+#: ../views/admin/metaboxes/settings-styles.php:9
+#: ../views/admin/slides/loop.php:78 ../views/admin/slides/save.php:108
+msgid "No"
+msgstr "nie"
+
+#: ../views/admin/metaboxes/settings-general.php:8
+msgid "Should image slides automatically slide?"
+msgstr "Mala obrázok snímky automaticky posunúť?"
+
+#: ../views/admin/metaboxes/settings-general.php:18
+msgid "Auto Speed"
+msgstr "Auto rýchlosť"
+
+#: ../views/admin/metaboxes/settings-general.php:20
+#: ../views/admin/metaboxes/settings-general.php:141
+msgid "speed"
+msgstr "rýchlosť"
+
+#: ../views/admin/metaboxes/settings-general.php:21
+msgid ""
+"Speed for auto sliding. Lower number for shorter interval between images."
+msgstr ""
+"Rýchlosť pre auto posuvné. Nižšie číslo pre kratší interval medzi obrázkami."
+
+#: ../views/admin/metaboxes/settings-general.php:21
+msgid "(Default/Recommended: 10)"
+msgstr "(Predvolené/odporúča: 10)."
+
+#: ../views/admin/metaboxes/settings-general.php:31
+msgid "Image Fading Speed"
+msgstr "Rýchlosť vyblednutiu obrazu"
+
+#: ../views/admin/metaboxes/settings-general.php:34
+msgid "Speed for fading of images. Lower number for quicker fading of images."
+msgstr ""
+"Rýchlosť pre vyblednutiu obrázky. Nižšie číslo pre rýchlejšie vyblednutiu "
+"obrázky."
+
+#: ../views/admin/metaboxes/settings-general.php:34
+msgid "(Default: 10, Recommended: 1-20)"
+msgstr "(Predvolené: 10, doporučené: 1-20)"
+
+#: ../views/admin/metaboxes/settings-general.php:38
+msgid "Show Image Navigation"
+msgstr "Zobraziť Image navigáciu"
+
+#: ../views/admin/metaboxes/settings-general.php:42
+msgid "Show next/previous buttons on the image for navigation purposes?"
+msgstr ""
+"Zobraziť ďalší/predchádzajúci tlačidiel na obrázok pre navigačné účely?"
+
+#: ../views/admin/metaboxes/settings-general.php:52
+msgid "Navigation Default Opacity"
+msgstr "Navigácia predvolené Opacity"
+
+#: ../views/admin/metaboxes/settings-general.php:54
+#: ../views/admin/metaboxes/settings-general.php:61
+#: ../views/admin/metaboxes/settings-general.php:134
+msgid "&#37; <!-- percentage -->"
+msgstr "&amp;#37; <!--percento-->"
+
+#: ../views/admin/metaboxes/settings-general.php:55
+msgid "Opacity of the next/previous buttons by default."
+msgstr "Opacita ďalší/predchádzajúci tlačidiel v predvolenom nastavení."
+
+#: ../views/admin/metaboxes/settings-general.php:59
+msgid "Navigation Hover Opacity"
+msgstr "Navigácia Hover Opacity"
+
+#: ../views/admin/metaboxes/settings-general.php:62
+msgid "Opacity of the next/previous buttons when they are hovered."
+msgstr "Opacita ďalší/predchádzajúci tlačidiel, keď sa vznášal."
+
+#: ../views/admin/metaboxes/settings-general.php:72
+msgid "Show Information"
+msgstr "Zobraziť informácie"
+
+#: ../views/admin/metaboxes/settings-general.php:76
+msgid "Should the information bar be shown on slides?"
+msgstr "Informačný panel na malo byť zobrazené snímky?"
+
+#: ../views/admin/metaboxes/settings-general.php:86
+msgid "Information Speed"
+msgstr "Informácie rýchlosť"
+
+#: ../views/admin/metaboxes/settings-general.php:89
+msgid "Speed at which the information bar will slide in and out."
+msgstr "Rýchlosť, akou bude kĺzať na informačný panel a von."
+
+#: ../views/admin/metaboxes/settings-general.php:99
+msgid "Show Thumbnails"
+msgstr "Zobraziť miniatúry"
+
+#: ../views/admin/metaboxes/settings-general.php:103
+msgid "Should the thumbnails bar be shown for slides?"
+msgstr "By zobrazí miniatúry bar pre snímky?"
+
+#: ../views/admin/metaboxes/settings-general.php:113
+msgid "Thumbnails Position"
+msgstr "Miniatúry pozície"
+
+#: ../views/admin/metaboxes/settings-general.php:115
+msgid "Top"
+msgstr "Top"
+
+#: ../views/admin/metaboxes/settings-general.php:116
+msgid "Bottom"
+msgstr "Dno"
+
+#: ../views/admin/metaboxes/settings-general.php:117
+msgid ""
+"Choose your preferred position of the thumbnails bar relative to the "
+"slideshow images."
+msgstr ""
+"Vyberte si svoju preferovanú polohu miniatúry bar vo vzťahu k slideshow "
+"obrázkov."
+
+#: ../views/admin/metaboxes/settings-general.php:121
+msgid "Thumbnail Dimensions"
+msgstr "Miniatúrne rozmery"
+
+#: ../views/admin/metaboxes/settings-general.php:124
+msgid "x <!-- by -->"
+msgstr "x <!--v-->"
+
+#: ../views/admin/metaboxes/settings-general.php:126
+msgid "px <!-- pixels -->"
+msgstr "px <!--pixelov-->"
+
+#: ../views/admin/metaboxes/settings-general.php:127
+msgid "Width and height of the thumbnails for the slides."
+msgstr "Šírku a výšku miniatúry snímok."
+
+#: ../views/admin/metaboxes/settings-general.php:128
+msgid "You may leave the width empty (not the height) to crop proportionally."
+msgstr "Môžete zanechať prázdne šírku (nie výška) orezanie proporcionálne."
+
+#: ../views/admin/metaboxes/settings-general.php:132
+msgid "Thumbnail Opacity"
+msgstr "Náhľad nepriehľadnosti"
+
+#: ../views/admin/metaboxes/settings-general.php:135
+msgid "Default opacity of thumbnails when they are not hovered."
+msgstr "Predvolené opacity miniatúr, keď oni sú nie vznášal."
+
+#: ../views/admin/metaboxes/settings-general.php:139
+msgid "Thumbnails Scroll Speed"
+msgstr "Miniatúry prejdite rýchlosť"
+
+#: ../views/admin/metaboxes/settings-general.php:142
+msgid "Speed at which the thumbnails will scroll."
+msgstr "Rýchlosť, akou bude rolovať miniatúr."
+
+#: ../views/admin/metaboxes/settings-general.php:142
+msgid "(Default:5, Recommended: 1-20)"
+msgstr "(Predvolené: 5, doporučené: 1-20)"
+
+#: ../views/admin/metaboxes/settings-general.php:146
+msgid "Thumbnail Spacing"
+msgstr "Náhľad medzery"
+
+#: ../views/admin/metaboxes/settings-general.php:148
+#: ../views/admin/metaboxes/settings-styles.php:31
+#: ../views/admin/metaboxes/settings-styles.php:38
+msgid "px"
+msgstr "px"
+
+#: ../views/admin/metaboxes/settings-general.php:149
+msgid "Horizontal margin/spacing in pixels between thumbnail images."
+msgstr "Horizontálne okraj/medzery v pixeloch medzi náhľadmi."
+
+#: ../views/admin/metaboxes/settings-linksimages.php:4
+msgid "Open Images in Thickbox Overlay"
+msgstr "Otvoriť obrázky v Thickbox prekrytie"
+
+#: ../views/admin/metaboxes/settings-linksimages.php:8
+msgid ""
+"turning this on (Yes) will open image URLs (.jpg, .png, .gif, .bmp) in a "
+"Thickbox image overlay"
+msgstr ""
+"zapnutím tejto služby (áno) sa otvorí image URL (.jpg, .png, .gif, .bmp) v "
+"Thickbox prekryvný obrázok"
+
+#: ../views/admin/metaboxes/settings-styles.php:6
+msgid "Resize Images"
+msgstr "Veľkosť obrázkov"
+
+#: ../views/admin/metaboxes/settings-styles.php:10
+msgid ""
+"Should images be resized proportionally to fit the width of the slideshow "
+"area?"
+msgstr "By obrázky byť modulované úmerne podľa šírky priestoru slideshow?"
+
+#: ../views/admin/metaboxes/settings-styles.php:14
+msgid ""
+"When resize images is turned on, TimThumb will be used to resize/crop images."
+msgstr ""
+
+#: ../views/admin/metaboxes/settings-styles.php:15
+msgid ""
+"Below is a test image and the URL to the image to ensure that TimThumb works."
+msgstr ""
+
+#: ../views/admin/metaboxes/settings-styles.php:21
+msgid "click to open to test TimThumb"
+msgstr ""
+
+#: ../views/admin/metaboxes/settings-styles.php:29
+msgid "Gallery Width"
+msgstr "Galéria šírka"
+
+#: ../views/admin/metaboxes/settings-styles.php:32
+msgid "Width of the slideshow gallery"
+msgstr "Šírka slideshow galérie"
+
+#: ../views/admin/metaboxes/settings-styles.php:36
+msgid "Gallery Height"
+msgstr "Galéria výška"
+
+#: ../views/admin/metaboxes/settings-styles.php:39
+msgid "Height of the slideshow gallery"
+msgstr "Výška slideshow galérie"
+
+#: ../views/admin/metaboxes/settings-styles.php:43
+msgid "Slideshow Border"
+msgstr "Slideshow hraníc"
+
+#: ../views/admin/metaboxes/settings-styles.php:46
+#, php-format
+msgid "Border style/color for the entire slideshow wrapper eg. %s"
+msgstr "Štýl/farba pre celú prezentáciu wrapper orámovania napr. %s"
+
+#: ../views/admin/metaboxes/settings-styles.php:50
+msgid "Slideshow Background"
+msgstr "Pozadí slideshow"
+
+#: ../views/admin/metaboxes/settings-styles.php:53
+#, php-format
+msgid "Background color (hexidecimal) of the entire slideshow wrapper eg. %s"
+msgstr "Pozadia farba (hexadecimálnu) celý slideshow obalu napr. %s"
+
+#: ../views/admin/metaboxes/settings-styles.php:57
+msgid "Information Background"
+msgstr "Informácie pozadia"
+
+#: ../views/admin/metaboxes/settings-styles.php:60
+#, php-format
+msgid "Background color (hexidecimal) of the information bar eg. %s"
+msgstr "Farbu (hexadecimálnu) pozadia panela informácie napr. %s"
+
+#: ../views/admin/metaboxes/settings-styles.php:64
+msgid "Information Text Color"
+msgstr "Farba textu informácie"
+
+#: ../views/admin/metaboxes/settings-styles.php:67
+#, php-format
+msgid "Text color (hexidecimal) of the information bar content eg. %s"
+msgstr "Text farba (hexadecimálnu) z informačný panel obsah napr. %s"
+
+#: ../views/admin/metaboxes/settings-styles.php:71
+msgid "Thumbnail Active Border"
+msgstr "Náhľad aktívny okraj"
+
+#: ../views/admin/metaboxes/settings-styles.php:74
+#, php-format
+msgid "Border color (hexidecimal) for the active image thumbnail eg. %s"
+msgstr ""
+"Farba (hexadecimálnu) orámovania pre aktívny Obrázok miniatúry napr. %s"
+
+#: ../views/admin/metaboxes/settings-submit.php:5
+msgid "Reset all configuration settings to their default values"
+msgstr "Obnoviť všetky nastavenia na predvolené hodnoty"
+
+#: ../views/admin/metaboxes/settings-submit.php:5
+msgid "Are you sure you wish to reset all configuration settings?"
+msgstr "Naozaj chcete obnoviť všetky nastavenia konfigurácie?"
+
+#: ../views/admin/metaboxes/settings-submit.php:5
+msgid "Reset to Defaults"
+msgstr "Znovunastaviť na predvolené"
+
+#: ../views/admin/metaboxes/settings-submit.php:11
+msgid "Save Configuration"
+msgstr "Uložiť konfiguráciu"
+
+#: ../views/admin/metaboxes/settings-wprelated.php:32
+msgid "Only the administrator role can edit roles/permissions."
+msgstr ""
+
+#: ../views/admin/slides/index.php:11
+msgid "slides"
+msgstr "snímky"
+
+#: ../views/admin/slides/loop.php:2
+msgid "Are you sure you wish to execute this action on the selected slides?"
+msgstr "Naozaj chcete vykonať túto akciu na vybrané snímky?"
+
+#: ../views/admin/slides/loop.php:8
+msgid "Order all your slides"
+msgstr "Objednať všetky snímky"
+
+#: ../views/admin/slides/loop.php:25 ../views/admin/slides/loop.php:37
+msgid "Image"
+msgstr "Obrázok"
+
+#: ../views/admin/slides/loop.php:27 ../views/admin/slides/loop.php:39
+#: ../views/admin/slides/save.php:31
+msgid "Galleries"
+msgstr "Galérie"
+
+#: ../views/admin/slides/loop.php:28 ../views/admin/slides/loop.php:40
+msgid "Link"
+msgstr "Odkaz"
+
+#: ../views/admin/slides/loop.php:30 ../views/admin/slides/loop.php:42
+msgid "Order"
+msgstr "Objednávky"
+
+#: ../views/admin/slides/loop.php:70
+msgid "None"
+msgstr "Žiadny"
+
+#: ../views/admin/slides/loop.php:76
+msgid "Open"
+msgstr "Otvorené"
+
+#: ../views/admin/slides/loop.php:94 ../views/admin/slides/order.php:59
+msgid "No slides found"
+msgstr "Žiadne snímky našiel"
+
+#: ../views/admin/slides/order.php:9
+msgid "&larr; Manage All Slides"
+msgstr "&amp;larr; Spravovať všetky snímky"
+
+#: ../views/admin/slides/order.php:15
+msgid "List"
+msgstr ""
+
+#: ../views/admin/slides/order.php:16
+msgid "Grid"
+msgstr ""
+
+#: ../views/admin/slides/save.php:6
+msgid "Save a Slide"
+msgstr "Uložiť snímky"
+
+#: ../views/admin/slides/save.php:18
+msgid "title/name of your slide as it will be displayed to your users."
+msgstr "titul/názov snímky ako sa zobrazí používateľom."
+
+#: ../views/admin/slides/save.php:23
+msgid "Description"
+msgstr "Popis"
+
+#: ../views/admin/slides/save.php:26
+msgid ""
+"description of your slide as it will be displayed to your users below the "
+"title."
+msgstr "opis snímky ako to zobrazí používateľom pod názvom."
+
+#: ../views/admin/slides/save.php:34
+msgid "Select All"
+msgstr "Vybrať všetko"
+
+#: ../views/admin/slides/save.php:41
+msgid "Assign this slide to one or more galleries."
+msgstr "Táto snímka priradiť jednu alebo viac galérií."
+
+#: ../views/admin/slides/save.php:45
+msgid "Image Type"
+msgstr "Typ obrázka"
+
+#: ../views/admin/slides/save.php:47
+msgid "Upload File (recommended)"
+msgstr "Nahrať súbor (odporúča sa)"
+
+#: ../views/admin/slides/save.php:48
+msgid "Specify URL"
+msgstr "Zadajte adresu URL"
+
+#: ../views/admin/slides/save.php:50
+msgid "do you want to upload an image or specify a local/remote image URL?"
+msgstr ""
+"chcete nahrať obrázok, alebo zadajte adresu URL obrázka miestne/vzdialenej?"
+
+#: ../views/admin/slides/save.php:60
+msgid "Choose Image"
+msgstr "Vyberte obrázok"
+
+#: ../views/admin/slides/save.php:63
+msgid "choose your image file from your computer. JPG, PNG, GIF are supported."
+msgstr ""
+"Vyberte súbor s obrázkom z vášho počítača. Podporované sú JPG, PNG, GIF."
+
+#: ../views/admin/slides/save.php:73
+msgid "Current image. Leave the field above blank to keep this image."
+msgstr "Aktuálny obraz. Ponechajte pole nad prázdnu, aby tento obraz."
+
+#: ../views/admin/slides/save.php:91
+msgid "Image URL"
+msgstr "Adresa URL obrázka"
+
+#: ../views/admin/slides/save.php:94
+msgid "Local or remote image location eg. http://domain.com/path/to/image.jpg"
+msgstr ""
+"Lokálny alebo vzdialený obraz umiestnenie napr. http://domain.com/path/to/"
+"image.jpg"
+
+#: ../views/admin/slides/save.php:105
+msgid "Use Link"
+msgstr "Použite odkaz"
+
+#: ../views/admin/slides/save.php:109
+msgid "set this to Yes to link this slide to a link/URL of your choice."
+msgstr "nastaviť na Áno prepojiť túto snímku/URL odkazu podľa vášho výberu."
+
+#: ../views/admin/slides/save.php:119
+msgid "Link To"
+msgstr "Odkaz na"
+
+#: ../views/admin/slides/save.php:122
+msgid ""
+"link/URL to go to when a user clicks the slide eg. http://www.domain.com/"
+"mypage/"
+msgstr ""
+"odkaz/URL ísť, keď používateľ klikne snímku napr. http://www.domain.com/"
+"mypage/"
+
+#: ../views/admin/slides/save.php:126
+msgid "Link Target"
+msgstr "Cieľ odkazu"
+
+#: ../views/admin/slides/save.php:128
+msgid "Current Window"
+msgstr "Aktuálne okno"
+
+#: ../views/admin/slides/save.php:129
+msgid "New/Blank Window"
+msgstr "Okno novej/prázdnej"
+
+#: ../views/admin/slides/save.php:130
+msgid "Should this link open in the current window or a new window?"
+msgstr "By tento odkaz otvorí v aktuálnom okne alebo nové okno?"
+
+#: ../views/admin/slides/save.php:138
+msgid "Save Slide"
+msgstr "Uložiť snímky"
+
+#: ../views/default/gallery.php:70 ../views/default/gallery.php:101
+msgid "Slide Left"
+msgstr "Snímka vľavo"
+
+#: ../views/default/gallery.php:74 ../views/default/gallery.php:105
+msgid "Slide Right"
+msgstr "Snímka vpravo"
+
+#: ../views/default/gallery.php:83
+msgid "Previous Image"
+msgstr "Predchádzajúci obrázok"
+
+#: ../views/default/gallery.php:88
+msgid "Next Image"
+msgstr "Nasledujúci obrázok"
+
+#: ../views/default/gallery.php:168
+#, fuzzy
+msgid "No slides are available."
+msgstr "Žiadne galérie sú k dispozícii."
+
+#~ msgid "Uploads folder named \""
+#~ msgstr "Uploads priečinok s názvom \""
+
+#~ msgid "About Us"
+#~ msgstr "o nás"
+
+#~ msgid "Please fill in a description"
+#~ msgstr "Prosím, vyplňte Popis"
