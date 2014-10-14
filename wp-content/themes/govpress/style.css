@@ -548,7 +548,7 @@ a:hover {
 /* =Menu
 ----------------------------------------------- */
 #site-navigation {
-  position: fixed;
+  position: relative;
   z-index:1;
   background: rgba(87, 6, 140, 1.0);
 }
@@ -680,7 +680,7 @@ a:hover {
   font-weight: 400;
   padding: 2em 0;
   padding-bottom: 60px;
-} 
+}
 
 .site-title {
   font-size: 36px;
